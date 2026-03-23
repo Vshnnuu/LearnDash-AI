@@ -99,7 +99,8 @@ Inputs are grouped into tabs such as:
 
 ## Running the Project
 
-Public link for testing: 
+Public link for testing the app: 
+https://huggingface.co/spaces/vshnnuu/LearnDash-AI
 
 
 ### 1. Create environment (for setting up locally)
