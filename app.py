@@ -105,7 +105,7 @@ def run_prediction(
 with gr.Blocks(title="Learner Retention AI") as demo:
     gr.Markdown(
         """
-        # Learner Retention AI – Churn Prediction & Retention Agent
+        # LearnDash AI – AI Churn Prediction & Retention Agent
         Predicts a learner's unsubscription risk for an online learning platform and displays recommended retention and intervention actions.
         """
     )

@@ -1,6 +1,7 @@
-# Learner Retention AI
+# LearnDash
+### An AI-Powered Learner Retention Dashboard
 
-An end-to-end machine learning system that predicts learner churn/unsubscription risk for an online education platform and recommends retention strategies.  
+**LearnDash** is an AI-powered Dashboard that uses an end-to-end machine learning system for predicting learner churn/unsubscription risk for an online education platform and recommends retention strategies.  
 The project combines a predictive model, a decision agent, and a simulated CRM workflow inside an interactive dashboard.
 
 ---
@@ -9,7 +10,7 @@ The project combines a predictive model, a decision agent, and a simulated CRM w
 
 Online learning platforms often lose learners due to inactivity, low engagement, billing issues, or unresolved support problems.
 
-This system predicts churn probability and generates targeted interventions such as:
+LearnDash's system predicts churn probability and generates targeted interventions such as:
 
 - retention discount offers
 - personalized course recommendations
