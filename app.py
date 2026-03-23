@@ -102,7 +102,7 @@ def run_prediction(
     return summary, strategy_report, crm_report
 
 
-with gr.Blocks(title="Learner Retention AI") as demo:
+with gr.Blocks(title="LearnDash AI") as demo:
     gr.Markdown(
         """
         # LearnDash AI – AI Churn Prediction & Retention Agent
