@@ -1,4 +1,4 @@
-# LearnDash
+# LearnDash AI
 ### An AI-Powered Learner Retention Dashboard
 Live App [Public link]: https://huggingface.co/spaces/vshnnuu/LearnDash-AI
 
