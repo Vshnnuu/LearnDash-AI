@@ -1,5 +1,6 @@
 # LearnDash
 ### An AI-Powered Learner Retention Dashboard
+Live App [Public link]: https://huggingface.co/spaces/vshnnuu/LearnDash-AI
 
 **LearnDash** is an AI-powered Dashboard that uses an end-to-end machine learning system for predicting learner churn/unsubscription risk for an online education platform and recommends retention strategies.  
 The project combines a predictive model, a decision agent, and a simulated CRM workflow inside an interactive dashboard.
@@ -98,10 +99,6 @@ Inputs are grouped into tabs such as:
 - Billing & Marketing  
 
 ## Running the Project
-
-Public link for testing the app: 
-https://huggingface.co/spaces/vshnnuu/LearnDash-AI
-
 
 ### 1. Create environment (for setting up locally)
 ```bash
