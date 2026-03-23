@@ -1,0 +1,14 @@
+data:
+  dataset_path: data/raw/subscriber_churn_snapshot.csv
+
+training:
+  model_type: random_forest
+  test_size: 0.2
+  random_state: 42
+
+inference:
+  churn_threshold: 0.5
+
+artifacts:
+  model_path: models/churn_model.joblib
+  metrics_path: models/metrics.json
